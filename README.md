@@ -23,5 +23,4 @@ ImageIQ is a responsive and user-friendly web-based image editor that allows use
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/priyanshi-here/imageiq-image-editor.git
-   cd imageiq-image-editor
+   https://github.com/priyanshi-here/Image-IQ.git
